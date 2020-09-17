@@ -1,7 +1,7 @@
-DerivedDataCache
-WindowsNoEditor
-Intermediate
-Saved
+DerivedDataCache/*
+WindowsNoEditor/*
+Intermediate/*
+Saved/*
 Intermediate/CachedAssetRegistry.bin
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Saved/Config/Windows/Engine.ini
